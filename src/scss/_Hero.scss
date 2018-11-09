@@ -1,0 +1,38 @@
+.hero {
+  margin-top: 3rem;
+  margin-bottom: 4rem;
+
+  @include small {
+    margin-top: 1rem;
+  }
+  h1 {
+    color: $purple;
+    font-family: Consolas, 'Lucida Console', monospace;
+    font-size: 4.5rem;
+    margin-bottom: 2rem;
+
+    @include small {
+      font-size: 2.25rem;
+    }
+
+    .cursor {
+      margin-left: 0.5rem;
+      display: inline-block;
+      background-color: rgba($purple, 0.65);
+      animation: caret 1s steps(1) infinite;
+      width: 2rem;
+      height: 4rem;
+
+      @include small {
+        width: 1rem;
+        height: 2rem;
+      }
+    }
+
+    @keyframes caret {
+      50% {
+        background-color: transparent;
+      }
+    }
+  }
+}

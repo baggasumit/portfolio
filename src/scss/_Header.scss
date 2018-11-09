@@ -1,0 +1,13 @@
+header {
+  display: flex;
+  justify-content: flex-end;
+
+  img {
+    width: 2rem;
+    margin: 1rem;
+
+    &:hover {
+      transform: scale(1.05);
+    }
+  }
+}

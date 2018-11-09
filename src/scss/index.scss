@@ -1,0 +1,39 @@
+@import 'reset';
+@import 'colors';
+@import 'breakpoints';
+@import url("https://fonts.googleapis.com/css?family=Lato|Open+Sans");
+
+@import 'Header';
+@import 'Hero';
+@import 'Projects';
+// @import '../components/Contact';
+// @import '../components/Footer';
+
+// @font-face {
+//   font-family: 'Monaco';
+//   src: url('./fonts/monaco-webfont.woff') format('woff');
+// }
+
+html {
+  box-sizing: border-box;
+}
+
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+}
+
+body {
+  font-family: 'Open Sans', 'Lato', sans-serif;
+  color: $grey;
+  background-color: $body-background;
+  max-width: 960px;
+  margin: 0 auto;
+  padding: 0 2rem;
+
+  @include small {
+    padding: 0 0.5rem;
+  }
+}
+
