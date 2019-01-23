@@ -16,8 +16,8 @@
       "skills": ["HTML5", "CSS3", "Sass", "JavaScript", "ES6", "React"],
       "image": null,
       "links": {
-        "github": "https://github.com/baggasumit/soccer-schedule",
-        "demo": "https://soccer-schedule.netlify.com"
+        "github": "https://github.com/baggasumit/futbol-schedule",
+        "demo": "https://futbol-schedule.netlify.com"
       }
     },
     {
