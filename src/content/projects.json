@@ -7,7 +7,7 @@
       "image": null,
       "links": {
         "github": "https://github.com/baggasumit/filterize",
-        "demo": "https://filterize.netlify.com/"
+        "demo": "https://filterize.sumitbagga.com/"
       }
     },
     {
@@ -17,17 +17,7 @@
       "image": null,
       "links": {
         "github": "https://github.com/baggasumit/futbol-schedule",
-        "demo": "https://futbol-schedule.netlify.com"
-      }
-    },
-    {
-      "title": "Betta Beach",
-      "description": "A full-stack web app where users can search and review beaches around the world.",
-      "skills": ["HTML5", "CSS3", "Sass", "JavaScript", "NodeJS", "MongoDB"],
-      "image": null,
-      "links": {
-        "github": "https://github.com/baggasumit/betta-beach",
-        "demo": "https://bettabeach.netlify.com/"
+        "demo": "https://futbol-schedule.sumitbagga.com"
       }
     },
     {
@@ -37,7 +27,7 @@
       "image": null,
       "links": {
         "github": "https://github.com/baggasumit/restaurant-reviews",
-        "demo": "https://restaurant-reviews.netlify.com/"
+        "demo": "https://restaurant-reviews.sumitbagga.com/"
       }
     },
     {
