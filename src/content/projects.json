@@ -2,7 +2,7 @@
   "projects": [
     {
       "title": "Filterize",
-      "description": "A web app that let's you put instagram like filters on images using CSS.",
+      "description": "A web app that lets you put instagram like filters on images using CSS.",
       "skills": ["HTML5", "CSS3", "Sass", "JavaScript", "ES6", "React"],
       "image": null,
       "links": {
@@ -11,8 +11,8 @@
       }
     },
     {
-      "title": "Soccer Schedule",
-      "description": "A web app to easily see the scores, schedule and standings of your favorite teams.",
+      "title": "Fútbol Schedule",
+      "description": "A web app to easily see the scores, schedule and standings of your favorite soccer teams.",
       "skills": ["HTML5", "CSS3", "Sass", "JavaScript", "ES6", "React"],
       "image": null,
       "links": {
